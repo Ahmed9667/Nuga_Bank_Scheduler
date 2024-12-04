@@ -12,25 +12,34 @@ technologies employed in achieving these goals.
 ## Objectives:
 ● Streamline Data Processes: Automate the extraction, transformation, and
 loading of data to reduce manual intervention and errors.
+
 ● Ensure Data Quality: Implement checks and transformations that ensure the
 data adheres to the highest quality standards.
+
 ● Data Normalization: Structure the data into 2nd Normal Form (2NF) or 3rd
 Normal Form (3NF) to reduce redundancy and improve logical consistency.
+
 ● Improve Data Accessibility: Enable easier access to data through a
 centralized PostgreSQL database, facilitating more complex queries and
 analytics.
+
 ● Enhance Decision Making: Provide clean, organized, and reliable data that
 can be easily analyzed to support business decisions.
 
 ## TECH STACK:
 For this case study, the following tech stack was employed:
 A. Python: For scripting, data manipulation, and process automation.
+
 B. SQL: For data querying and manipulation within databases.
+
 C. PySpark: For handling large datasets and performing data processing tasks in a
 distributed environment.
+
 D. PostgreSQL: As the relational database system to store, query, and manage the
 processed data.
+
 E. Windows Task Scheduler: For automating and scheduling ETL jobs.
+
 F. GitHub: For version control and collaboration among the development team.
 
 ![image](https://github.com/user-attachments/assets/2ac17eeb-384e-4608-b6f6-fa42ac22a936)
