@@ -28,6 +28,7 @@ can be easily analyzed to support business decisions.
 
 ## TECH STACK:
 For this case study, the following tech stack was employed:
+
 A. Python: For scripting, data manipulation, and process automation.
 
 B. SQL: For data querying and manipulation within databases.
